@@ -1,3 +1,16 @@
+;## how to play 
+;## press a to move left
+;## press d to move right
+;## press w to change shape 
+;##how to run it in dosbox 0.74-3, cpu speed:3000 cycle, Frameskip: 0,Program: DOSBOX
+;1) mount c c:\assmsoft 
+;##this mean c or d directory and path to .asm file
+;2) c:
+;3) nasm mytetris.asm -o f.com
+;##.asm file to output file
+;4) f.com
+;## it will take some time to load because very large assembly code to assemble
+
 [org 0x0100]
 jmp start
 data1 : db 'WELCOME TO GAME ',0
