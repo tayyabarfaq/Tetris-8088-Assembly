@@ -38,7 +38,7 @@ This is a **fully functional Tetris game** written in **8088 Assembly language**
 
 ## 🚀 How to Run (DOSBox Instructions)
 
-> 💾 Make sure your `.asm` file is located in a folder like `C:\assmsoft`
+> 💾 Make sure your `.asm` file is located in a folder like `C:\assmsoft` <br>
 > this might take couple of minutes to load after step 3 and 4 
 
 ### Step-by-Step:
